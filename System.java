@@ -5,9 +5,12 @@ public class System {
         private int num1 = 10;
         private int num2 = 5;
         private int resultado;
+        
         //-----------SUMA---------------//
-
-        System.out.println();
+        //se agrega la operacion suma.
+        resultado = num1 + num2;
+        //se imprime el resultado por pantalla.
+        System.out.println(resultado);
 
         //-----------RESTA--------------//
         //se agrega la operacion resta.
