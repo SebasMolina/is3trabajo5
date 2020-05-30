@@ -10,4 +10,5 @@ texto.
 ## Integrantes 
 ---
 Sebastian Molina
+Wagner Nahuel
 ---
